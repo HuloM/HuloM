@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @HuloM or Matt
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity/unreal/blender3D
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Matthieu Dubray: HuloM
 
-<!---
-HuloM/HuloM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full Stack Software Developer
+
+I am a full stack developer, 
+I have used:
+  - MVC architecture: using .NET (c#) or Django (python)
+  - RESTful APIs: using Django (python), Flask (python), or NodeJS (javascript)
+  - SPA: using react (javascript)
+
+I am currently working on AWS Cloud Developer Associate Certificate, to better understand the process after development and deploying apps manually, devops to create automated pipelines, networking, security, and auto scalling apps based on workload.
